@@ -1,4 +1,7 @@
 <<<<<<< HEAD
+<<<<<<< HEAD
+=======
+>>>>>>> 4ab5e08c1a7cbf423d752b15a8588dfe2de64e13
 <html>
 <head>
 <title>Mi titulo</title>
@@ -7,6 +10,9 @@
 <p>hola a todos </p>
 </body>
 </html>
+<<<<<<< HEAD
 =======
 estoy trantando de aprender a usar esto
 >>>>>>> parent of a1f5bc4... 2_actualizacion
+=======
+>>>>>>> 4ab5e08c1a7cbf423d752b15a8588dfe2de64e13
